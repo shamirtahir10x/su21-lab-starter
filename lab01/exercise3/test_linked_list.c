@@ -38,6 +38,8 @@ int main(int argc, char **argv) {
     }
     free_list(head_2);
 
+    printf("Congrats! You have passed the add_to_back test!\n\n");
+
     printf("Congrats! All of the test cases passed!\n");
     return 0;
 }
